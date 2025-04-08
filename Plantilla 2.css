@@ -6,7 +6,7 @@
 
 .bloque1 {
     width: 1400px;
-    height: 300px;
+    height: 250px;
     background-color: rgb(253, 198, 95);
     padding: 10px;
     margin: 20px auto;
@@ -16,10 +16,10 @@
 
 
  .box1 {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     background-color: rgb(255, 190, 69);
-    margin: 40px;
+    margin: 50px;
  }
  
  .titulo1 {
@@ -27,5 +27,5 @@
     height: 30px;
     background-color: rgb(194, 131, 16);
     margin-left: 600px;
-    margin-top: -250px;
+    margin-top: -220px;
 }
