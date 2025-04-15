@@ -16,16 +16,32 @@
 
 
  .box1 {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     background-color: rgb(255, 190, 69);
-    margin: 50px;
+    margin-left: 100px;
  }
  
  .titulo1 {
     width: 300px;
     height: 30px;
-    background-color: rgb(194, 131, 16);
+    background-color: rgb(255, 160, 62);
     margin-left: 600px;
-    margin-top: -220px;
+    margin-top: -180px;
+}
+
+.texto2 {
+    width: 500px;
+    height: 10px;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 25px;
+}
+
+.texto3 {
+    width: 300px;
+    height: 10px;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 25px;
 }
